@@ -1,0 +1,53 @@
+html{
+    background:rgb(224, 224, 224);
+} 
+body{
+    background:rgba(157, 131, 172, 0.842);  
+}
+p{
+    margin-left: 20px;
+}
+strong{
+    color: rgba(49, 6, 88, 0.822);
+}
+hr{
+    border: none;
+    color:rgba(84, 6, 156, 0.726);
+    background-color:rgba(80, 0, 155, 0.726);
+    height: 2px;
+}
+.apple:hover{
+    background-color:rgb(224, 224, 224);
+    color:rgba(84, 6, 156, 0.726);
+    width: 90px;
+}
+.macbook:hover{
+    background-color:rgb(224, 224, 224);
+    color:rgba(84, 6, 156, 0.726);
+    width: 90px;
+}
+.ipad:hover{
+    background-color:rgb(224, 224, 224);
+    color:rgba(84, 6, 156, 0.726);
+    width: 90px;
+}
+a {
+    color:rgba(84, 6, 156, 0.726);
+    text-decoration: none;
+}
+a:hover {
+    color:black;
+}
+.back {
+    background-color:rgba(80, 0, 155, 0.726);
+    color:rgb(236, 218, 205);
+    padding: 5px;
+    width: 200px;
+    text-align:center;
+}
+q{
+    background-color:rgba(111, 56, 163, 0.726);
+    color:gainsboro;
+    padding: 2px;
+}
+
