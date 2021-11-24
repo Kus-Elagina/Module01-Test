@@ -22,9 +22,15 @@ a{
     text-decoration: none;
     font-weight: 700;
 }
+.link{
+    background-color: rebeccapurple;
+    color: white;
+    padding: 8px 15px;
+    margin-left: 10px;
+}
 h1{
-text-transform: uppercase;
-letter-spacing: 0.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 h2{
     text-transform: uppercase;
@@ -42,6 +48,9 @@ ul {
 }
 ul > li {
     margin-right: 30px;
+}
+ul > li:last-child{
+    margin-right: 0;
 }
 .box {
     display: flex;
